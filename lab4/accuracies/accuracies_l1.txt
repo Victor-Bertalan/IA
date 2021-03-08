@@ -1,0 +1,5 @@
+accuracy for 1 neighbors: 0.88
+accuracy for 3 neighbors: 0.884
+accuracy for 5 neighbors: 0.868
+accuracy for 7 neighbors: 0.864
+accuracy for 9 neighbors: 0.864
